@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dll", "dll\dll.vcxproj", "{40ECACEA-B0A7-451B-88E7-608D4F2299DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dllinjector", "dllinjector\dllinjector.vcxproj", "{DCDEDEA7-A74D-4126-99CC-68FA7075C136}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "target", "target\target.vcxproj", "{CE49F1E6-7A23-45BC-9BB0-5BE62DFAD2C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40ECACEA-B0A7-451B-88E7-608D4F2299DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40ECACEA-B0A7-451B-88E7-608D4F2299DF}.Debug|Win32.Build.0 = Debug|Win32
+		{40ECACEA-B0A7-451B-88E7-608D4F2299DF}.Release|Win32.ActiveCfg = Release|Win32
+		{40ECACEA-B0A7-451B-88E7-608D4F2299DF}.Release|Win32.Build.0 = Release|Win32
+		{DCDEDEA7-A74D-4126-99CC-68FA7075C136}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DCDEDEA7-A74D-4126-99CC-68FA7075C136}.Debug|Win32.Build.0 = Debug|Win32
+		{DCDEDEA7-A74D-4126-99CC-68FA7075C136}.Release|Win32.ActiveCfg = Release|Win32
+		{DCDEDEA7-A74D-4126-99CC-68FA7075C136}.Release|Win32.Build.0 = Release|Win32
+		{CE49F1E6-7A23-45BC-9BB0-5BE62DFAD2C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE49F1E6-7A23-45BC-9BB0-5BE62DFAD2C5}.Debug|Win32.Build.0 = Debug|Win32
+		{CE49F1E6-7A23-45BC-9BB0-5BE62DFAD2C5}.Release|Win32.ActiveCfg = Release|Win32
+		{CE49F1E6-7A23-45BC-9BB0-5BE62DFAD2C5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
