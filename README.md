@@ -11,7 +11,7 @@ build.bat
 NOTE: Debug build currently has issues with thread hijacking DLL injection technique.
 
 ## References
-
+* [Blizzhackers DLL injection tutorial by Darawk](http://www.blizzhackers.cc/viewtopic.php?p=2483118)
 * [Black Hat USA 2007 Butler and Kendall Presentation](https://www.blackhat.com/presentations/bh-usa-07/Butler_and_Kendall/Presentation/bh-usa-07-butler_and_kendall.pdf)
 * [Basic Windows Shellcode Development Part 1](http://www.kdsbest.com/?p=171)
 * [Dll Injection with CreateRemoteThread](http://stackoverflow.com/questions/22750112/dll-injection-with-createremotethread)
