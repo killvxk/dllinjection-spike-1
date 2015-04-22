@@ -12,6 +12,7 @@ NOTE: Debug build currently has issues with thread hijacking DLL injection techn
 
 ## References
 * [Blizzhackers DLL injection tutorial by Darawk](http://www.blizzhackers.cc/viewtopic.php?p=2483118)
+* [Exploit writing tutorial part 9: Introduction to Win32 shellcoding](https://www.corelan.be/index.php/2010/02/25/exploit-writing-tutorial-part-9-introduction-to-win32-shellcoding/)
 * [Black Hat USA 2007 Butler and Kendall Presentation](https://www.blackhat.com/presentations/bh-usa-07/Butler_and_Kendall/Presentation/bh-usa-07-butler_and_kendall.pdf)
 * [Basic Windows Shellcode Development Part 1](http://www.kdsbest.com/?p=171)
 * [Dll Injection with CreateRemoteThread](http://stackoverflow.com/questions/22750112/dll-injection-with-createremotethread)
